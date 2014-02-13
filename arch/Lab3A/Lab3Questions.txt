@@ -1,0 +1,23 @@
+
+Micah Stringham
+January 23rd, 2014
+LAB 3
+
+Jasmin Programming:
+
+	1. 1111 0000 in hexadecimal is negative 0x10
+	2. 1010 1010 in hexadecimal is
+	3. Write a jasmin program to print the bitwise AND 
+of 1111 0000 and 1010 1010, the bitwise OR of those numbers,
+ and the bitwise XOR of those numbers.
+
+ 	i don't know how to impute those numbers...
+
+Using hexedit:
+
+	1. 5 is the value being bipushed
+	2. the hexaddress is not the op code! and it is 13f
+	3. The next four instructions are isub, sipush, iand, invokeVirtual
+
+
+13f
