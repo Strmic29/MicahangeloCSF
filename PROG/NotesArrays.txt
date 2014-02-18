@@ -1,0 +1,27 @@
+February 18th, 2014
+Micah Stringham
+Paul Pham Programming
+
+
+//arrays:
+
+Planet[] planets = new Planet[10];
+
+//creates an array called "Planet" with 10 indexes
+
+planets[0] = new Planet("Mercury",0.467f);
+
+//indexes Mercury at 0 with float 0.467
+
+Planet[] planet = new Planet[] {
+	new Planet("Mercury", 0.467f),
+	new Planet("Venus", 0.7f),
+	}
+
+//creats arrays indexed in respective order
+
+byte[][] tiles = new byte[8][8]
+
+//creates 2d arrays with 8 lengths new byte[col][row]
+
+"You want computers to do non-linear things,

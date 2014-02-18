@@ -1,0 +1,17 @@
+Hw4
+Micah Stringham
+Strmic29
+February 17th, 2014
+
+1. Local variables are stored in the heap, using registers. They are not stored in the stack
+
+
+2. Local variables are the changable int or string that is stored in a register.
+
+3. Registers are stored in the heap, not the stack which uses an order of ops (first in last out)
+
+4. Stack: 5,7,PrintStream
+
+5. 128-bit registers could store larger numbers
+
+...
