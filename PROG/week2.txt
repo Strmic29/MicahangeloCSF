@@ -1,0 +1,50 @@
+1.Ahmed Ali is my partner
+
+2.These .txt files would be good to record my progress in my project as well as my thoughts in the class,
+I'd love feedback but I don't expect it. There is a lot of people in the class and I feel that I get enough feeback.
+
+3. I will read it by thursday...
+
+4.The relationship "is-a", describes passing a type to an instance or varible, where the relationship "has-a", describes 
+sub-objects, parameters, or members of a class. For example: Drumspider "is-a" electronic music producer.
+Drumspider "has-a" party affinity.
+
+5. The state of the software is determined by the field containing parameters and inputs, where the behavior
+takes these conditions and applies methods and operations based on their state. Identity can be expressed through
+the uniqueness in objects and their address in the memory. Each object has a unique address.
+
+6. I think that the class to interface relationship is one of "has-a", Where the class Indiemusican has the
+interface Songwriter and implements it.
+
+7. I think that the class Indiemusician to Guitar instrument relationship is one of the "has-a", where the Guitar
+instrument is a parameter that the class Indiemusician has.
+
+#could be better: 8. The java interface is different from a class declaration because a class implements
+methods and interfaces, which carry more methods and more parameters.
+
+9. "Implements" is the keyword that indicates the relationship between a class and an interface.
+
+10. In the java API, java.security provides a security framework through classes that implement interfaces.
+
+11...
+public void rockOut() {
+    System.out.println("daaaala la la la, la lots uh pape uh");
+}
+
+12. interfaces are advantagious in the sence that they can save refactoring time. By implementing an interface, 
+the programmer prepares for changes to be made in the future. Rather than having to rewrite more unwieldly code.
+
+13.An interface in the Java programming language is an abstract type that is used to specify an interface
+that classes must implement. Interfaces are declared using the interface keyword,
+and may only contain method signature and constant declarations.
+http://en.wikipedia.org/wiki/Interface_(java)
+In english an interface helps us deal with an object or class. It allows mor access to the user within the class.
+
+14. In computer programming, an application programming interface specifies how some software components
+should interact with each other. Wikipedia
+Moreover it is how to programs communicate or work in conjunction.
+The Android software API is written in java.
+
+15. Interfaces are usefull because they can provide means for web-scrapping instead of manually writting the code. 
+If Interfacing were impossible one could perhaps use and API to the website that might provide another interface?...
+at least an API is an alternative.
